@@ -1,6 +1,6 @@
-# Project Title
+# Business Reports
 
-A brief description of what this project does and who it's for
+Notebooks that provide business analytics for a business
 
 ## Screenshots
 
